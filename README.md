@@ -12,7 +12,7 @@ Python 3.10_
 ## Contents of the PROJECT:
 
 ### Part_1_DS:
-A python application to DOWNLOAD, UPLOAD, RENAME, DELETE files between client-server </br>
+A python application to DOWNLOAD, UPLOAD, RENAME, DELETE files between client-server usig RPC</br>
 
 **How to Use:**</br>
 1. Open any Linux terminal and run the command "python3 server_side_code.py" to get the server running </br>
@@ -23,7 +23,7 @@ A python application to DOWNLOAD, UPLOAD, RENAME, DELETE files between client-se
 6. Enter new name of file at client side to perform all the operations</br>
 
 ### Part_2_DS:
-A python Application to emulate a synced folder system (such as Dropbox on Microsoft Windows)
+A python Application to emulate a synced folder system using RPC (such as Dropbox on Microsoft Windows)
 
 ** How to Use: ** </br>
 1. Open any Linux termina and run the command "python3 helper_thread_server_side.py" to get the server running </br>
