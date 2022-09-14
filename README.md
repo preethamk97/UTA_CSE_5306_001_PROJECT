@@ -25,7 +25,7 @@ A python application to DOWNLOAD, UPLOAD, RENAME, DELETE files between client-se
 ### Part_2_DS:
 A python Application to emulate a synced folder system using RPC (such as Dropbox on Microsoft Windows)
 
-** How to Use: ** </br>
+**How to Use:** </br>
 1. Open any Linux termina and run the command "python3 helper_thread_server_side.py" to get the server running </br>
 2. Open any Linux terminal and run the command "python3 helper_thread_server_side.p" to get the client running </br>
 3. Enter path where both at client and server side where the folders are supposed to be in sync </br>
