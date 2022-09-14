@@ -35,7 +35,7 @@ A python Application to emulate a synced folder system using RPC (such as Dropbo
 ### Part_2_DS:
 A python application which uses RPC to compute add and sort functionality synchronous and asynchronously
 
-**How to use**: </br>
+**How to use:** </br>
 1. Open any Linux terminal and run the command "python3 server_side_code.py" to get the server running </br>
 2. Open any Linux terminal and run the command "python3 client_side_code.py" to get the server running </br>
 3. Enter the option 1 or 2 for synchronous and asynchronous operation respectively </br>
