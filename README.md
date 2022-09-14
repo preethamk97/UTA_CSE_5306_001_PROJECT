@@ -31,3 +31,15 @@ A python Application to emulate a synced folder system (such as Dropbox on Micro
 3. Enter path where both at client and server side where the folders are supposed to be in sync </br>
 4. Make changes(addition, deletion, modifications) to files in the folder as mentioned </br>
 5. Observe changes automatically be reflected on the synced_dir_server </br>
+
+### Part_2_DS:
+A python application which uses RPC to compute add and sort functionality synchronous and asynchronously
+
+**How to use**: </br>
+1. Open any Linux terminal and run the command "python3 server_side_code.py" to get the server running </br>
+2. Open any Linux terminal and run the command "python3 client_side_code.py" to get the server running </br>
+3. Enter the option 1 or 2 for synchronous and asynchronous operation respectively </br>
+4. Enter the option 1 or 2 for add and sort functionality after entering synchronous or asynhronous</br>
+5. If chosen add enter 2 numbers in the prompt when asked and expect the result i.e added elements.</br>
+6. If chose sort enter the number of elements when asked in the promt. Enter the elements of the array in the promt when asked </br>
+7. Once the numbers are entered expect the result i.e the sorted list.
