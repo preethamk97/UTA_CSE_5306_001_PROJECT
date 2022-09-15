@@ -92,7 +92,7 @@ def send_request_to_server_to_upload():
 
 def send_request_to_server():
 
-	print("\n[OPTIONS] File Operations [*] Enter 1 to UPLOAD\n[*] Enter 2 to DOWNLOADd\n[*] Enter 3 to DELETE\n(*) Enter 4 to RENAME \n(*) 5 to exit\n")
+	print("\n[OPTIONS] File Operations\n[*] Enter 1 to UPLOAD\n[*] Enter 2 to DOWNLOADd\n[*] Enter 3 to DELETE\n[*] Enter 4 to RENAME \n(*) Enter 5 to exit\n")
 
 	choice = int(input("[*] Enter Your choice: "))
 	if (choice == 1):
