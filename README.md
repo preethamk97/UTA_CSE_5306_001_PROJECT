@@ -32,7 +32,7 @@ A python Application to emulate a synced folder system using RPC (such as Dropbo
 4. Make changes(addition, deletion, modifications) to files in the folder as mentioned </br>
 5. Observe changes automatically be reflected on the synced_dir_server </br>
 
-### Part_2_DS:
+### Part_3_DS:
 A python application which uses RPC to compute add and sort functionality synchronous and asynchronously
 
 **How to use:** </br>
