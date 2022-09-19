@@ -1,9 +1,9 @@
 # UTA_CSE_5306_001_PROJECT
 
 ## Authors:
-Preetham Karanth Kota
-pxk6418@mavs.uta.edu
-1002076418
+Preetham Karanth Kota</br>
+pxk6418@mavs.uta.edu</br>
+1002076418</br>
 
 ## System Requirements:
 _***Linux OS:***</br>
