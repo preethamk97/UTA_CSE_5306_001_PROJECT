@@ -3,10 +3,11 @@
 ## Authors:
 Preetham Karanth Kota
 pxk6418@mavs.uta.edu
+1002076418
 
 ## System Requirements:
 _***Linux OS:***</br>
-Developed and tested the software on Ubunut 22.04 LTS. Any linux distribution should do just fine
+Developed and tested the software on Ubunut 22.04 LTS. Any linux distribution should do just fine with
 Python 3.10_
 
 ## Contents of the PROJECT:
